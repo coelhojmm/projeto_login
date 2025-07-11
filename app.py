@@ -6,7 +6,7 @@ ctk.set_appearance_mode("dark")  # Modo escuro
 
 # Criação da janela principal
 app = ctk.CTk()  # Cria a janela principal
-app.geometry("300x300")  # Define o tamanho da janela
+app.geometry("400x300")  # Define o tamanho da janela
 app.title("Sistema de Login")  # Define o título da janela
 
 # Criação dos campos
